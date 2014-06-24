@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:c3d7f47a-664a-49b9-b270-74a36af3e391" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Patchwork: a positive vision (part 1)</text>
+      </navLabel>
+      <content src="Text/patchwork-positive-vision-part-1.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Patchwork 2: profit strategies for our new corporate overlords</text>
+      </navLabel>
+      <content src="Text/patchwork-2-profit-strategies-for-our.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Patchwork 3: what we have and what's so bad about it</text>
+      </navLabel>
+      <content src="Text/patchwork-3-what-we-have-and-whats-so.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Patchwork 4: a reactionary theory of world peace</text>
+      </navLabel>
+      <content src="Text/patchwork-4-reactionary-theory-of-world.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

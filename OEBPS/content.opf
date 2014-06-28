@@ -5,7 +5,7 @@
     <dc:title>Patchwork: A Positive Vision</dc:title>
     <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
     <dc:language>en</dc:language>
-    <dc:date opf:event="modification">2014-06-23</dc:date>
+    <dc:date opf:event="modification">2014-06-28</dc:date>
     <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
     <dc:contributor opf:role="edt">@jbboehr</dc:contributor>
     <meta content="0.7.4" name="Sigil version" />
@@ -30,5 +30,8 @@
     <itemref idref="patchwork-3-what-we-have-and-whats-so.html" />
     <itemref idref="patchwork-4-reactionary-theory-of-world.html" />
   </spine>
-  <guide />
+  <guide>
+    <reference href="Text/title.html" title="Title Page" type="title-page" />
+    <reference href="Text/patchwork-positive-vision-part-1.html" title="Text" type="text" />
+  </guide>
 </package>

@@ -9,9 +9,9 @@ Original Articles:
 [part 4](http://unqualified-reservations.blogspot.com/2008/12/patchwork-4-reactionary-theory-of-world.html)
 
 Download:
-[epub](http://jbboehr.github.io/Patchwork.epub/Patchwork.epub)
-[mobi](http://jbboehr.github.io/Patchwork.epub/Patchwork.mobi)
-[pdf](http://jbboehr.github.io/Patchwork.epub/Patchwork.pdf)
+[epub](http://keithanyan.github.io/Patchwork.epub/Patchwork.epub)
+[mobi](http://keithanyan.github.io/Patchwork.epub/Patchwork.mobi)
+[pdf](http://keithanyan.github.io/Patchwork.epub/Patchwork.pdf)
 
 
 ## License
